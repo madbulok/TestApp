@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 *.iml
 .gradle
 /local.properties
@@ -8,11 +9,17 @@
 /build
 /captures
 =======
+=======
+>>>>>>> 87bbf28ce46bd39c7f6d2b0ccabc974a4cd08158
 # Built application files
 *.apk
 *.ap_
 
+<<<<<<< HEAD
 # Files for the Dalvik VM
+=======
+# Files for the ART/Dalvik VM
+>>>>>>> 87bbf28ce46bd39c7f6d2b0ccabc974a4cd08158
 *.dex
 
 # Java class files
@@ -21,6 +28,10 @@
 # Generated files
 bin/
 gen/
+<<<<<<< HEAD
+=======
+out/
+>>>>>>> 87bbf28ce46bd39c7f6d2b0ccabc974a4cd08158
 
 # Gradle files
 .gradle/
@@ -40,4 +51,14 @@ proguard/
 
 # Android Studio captures folder
 captures/
+<<<<<<< HEAD
 >>>>>>> bb2d8e10b1c0d22b407f65415625983189100ec6
+=======
+
+# Intellij
+*.iml
+.idea/workspace.xml
+
+# Keystore files
+*.jks
+>>>>>>> 87bbf28ce46bd39c7f6d2b0ccabc974a4cd08158
